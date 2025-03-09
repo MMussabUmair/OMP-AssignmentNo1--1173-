@@ -1,4 +1,4 @@
-//Sequntial
+//Sequntial code to find the count of even numbers in the array 
 
 #include<stdio.h>
 #include<stdlib.h>
